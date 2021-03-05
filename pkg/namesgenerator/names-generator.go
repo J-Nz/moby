@@ -832,6 +832,12 @@ var (
 
 		// Nikolay Yegorovich Zhukovsky (Russian: Никола́й Его́рович Жуко́вский, January 17 1847 – March 17, 1921) was a Russian scientist, mathematician and engineer, and a founding father of modern aero- and hydrodynamics. Whereas contemporary scientists scoffed at the idea of human flight, Zhukovsky was the first to undertake the study of airflow. He is often called the Father of Russian Aviation. https://en.wikipedia.org/wiki/Nikolay_Yegorovich_Zhukovsky
 		"zhukovsky",
+		
+		// Ḥasan Ibn al-Haytham was a Muslim Arab mathematician, astronomer, and physicist of the Islamic Golden Age. Referred to as "the father of modern optics", he made significant contributions to the principles of optics and visual perception in particular. https://en.wikipedia.org/wiki/Ibn_al-Haytham
+		"alhazen",
+		
+		// Fatima bint Muhammad Al-Fihriya Al-Qurashiya founded the world’s first university in 895 CE in Fez, Morocco. It is the oldest continually operating educational institution in the world and was the first institution to award degrees according to different levels of study, in Islamic studies, mathematics, grammar, and medicine. The university started as a large mosque and later grew into a place of education. The Madrasa (Islamic School) Al-Fihri founded is still in operation today as the University of Al Quaraouiyine. https://en.wikipedia.org/wiki/Fatima_al-Fihri
+		"fatima",
 	}
 )
 
